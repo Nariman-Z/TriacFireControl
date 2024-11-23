@@ -40,7 +40,9 @@ The software, written in C++, integrates the following key features:
 2. **Firing Angle Calculation**: Dynamically adjusts the firing angle based on measured voltage, frequency, and user-defined parameters.  
 3. **Triac Trigger Generation**: Precisely generates firing pulses with calculated delays for optimal AC power regulation.
 4. **Adaptive Voltage Control**: Monitors real-time voltage using ZMPT101B and recalibrates firing angle to maintain the desired output.  
-5. **LCD Display**: Continuously updates and displays critical data, including voltage, frequency, and firing delay.  
+5. **LCD Display**: Continuously updates and displays critical data, including voltage, frequency, and firing delay.
+
+- **for the [ZMPT101B.h](https://github.com/Abdurraziq/ZMPT101B-arduino) library please refer to this link.**
 
 
 ## **Project Goals**
@@ -76,6 +78,6 @@ See also: [My Website](https://nariman-z.github.io/)
   <p> Last Edited on: November 23, 2024 </p>
   <!--profile visit count-->
     <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=YourGitHubUsername&label=Total%20Views&color=6E9EAB&icon=8&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=Nariman-Z&label=Total%20Profile%20Views&color=6E9EAB&icon=8&pretty=true" />
   </a>
 </div>

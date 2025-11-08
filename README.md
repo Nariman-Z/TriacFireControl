@@ -65,16 +65,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ---
 
 <!--Footer-->
-### Made with ♥️ by: [Nariman_Z](https://github.com/Nariman-Z) ###
-See also: [My Website](https://nariman-z.github.io/)
+### Made with ❤️ by: [Nariman_Z](https://github.com/Nariman-Z) ###
+See also: [My Portfolio](https://nariman-z.pages.dev/)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
-  <p> Last Edited on: November 23, 2024 </p>
-  <!--profile visit count-->
-    <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nariman-Z&label=Total%20Profile%20Views&color=6E9EAB&icon=8&pretty=true" />
-  </a>
-</div>
+_Last Edited on: November 8, 2025_
